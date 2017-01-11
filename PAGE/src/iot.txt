@@ -1,0 +1,188 @@
+			<h1 align="justify">Internet of Things Laboratory @ RI</h1>
+			<p>
+				Rajalakshmi Institutions IOT Lab provides opportunities for dynamic minds to perform R&D
+				in the field of wireless and embedded devices that are connected across internet.
+				IoT involves communication of a wide range of devices through internet to perform
+				certain predefined functionalities, that may include vehicle monitoring, agriculture monitoring,
+				security surveillance, telemedicine and smart cities. Our IoT lab at Rajalakshmi
+				aims at helping the nation in achieving the vision of smart cities by developing conceptual ideas
+				through student’s innovative ideas and research.
+			</p>
+			<h2>Mission</h2>
+			<p>
+				<ul>
+					<li>The Internet of things lab at REC aims to identity dynamic minds, who could implement concepts into working model.</li>
+			  	<li>To undertake challenging tasks and deliver low-cost solutions for enabling a good communication network among pervasive devices.</li>
+					<li> To enable various networking infrastructure to communicate with tiny devices to prove that IOT is here for the future generation.</li>
+				</ul>
+			</p>
+			<h2>Road Map</h2>
+				<h3>Year 1-2</h3>
+					<ul>
+						<li> To gain understanding in this future generation field by experimenting basic devices to work with the environment.</li>
+						<li>To study the potential of Intel boards and other open source environments and deliver it to educate students.</li>
+						<li>To focus on scholars and students to execute their research works for day to day problems.</li>
+					</ul>
+				<h3>Year 2-3</h3>
+					<ul>
+						<li> To Enable students and faculty to publish their research activities done in the lab.</li>
+						<li>To undertake consultation work with startups and deploy their data sets to gain funds.</li>
+						<li>To undertake training activities from IT majors.</li>
+					</ul>
+				<h3>Year 3-5</h3>
+					<ul>
+						<li> To propose reliable solutions to real world problems and market them. </li>
+						<li> To analysis the forecasting, and the simulation of complex socio-economical problems and provide it for government agencies for embedding into smart city solution.</li>
+					</ul>
+
+			</p>
+			<img src="images/IoT.png">
+			<br><br><br>
+			</div>
+			<div id="tables">
+				<h3><b style="font-size:25px;">Hardware Requirements:</b></h3>
+				<table class="tab">
+				<thead><b style="font-size:25px;">Arduino and Raspberry Pi</b></thead>
+				<tr>
+					<th style="width: 250px;">Product</th>
+					<th style="width: 250px;">Image</th>
+					<th style="width: 250px;">Quantity</th>
+					<th style="width: 250px;">Rate</th>
+					<th style="width: 250px;">Price</th>
+				</tr>
+				<tr>
+					<td style="width: 250px;">Arduino Starter kit</td>
+					<td style="width: 250px;"><img src="images/iot/ard.jpg"></td>
+					<td style="width: 250px;">5</td>
+					<td style="width: 250px;">3000</td>
+					<td style="width: 250px;">15000</td>
+				</tr>
+				<tr>
+					<td style="width: 250px;">Raspberry Pi 2 Model B</td>
+					<td style="width: 250px;"><img src="images/iot/rasp.jpg"></td>
+					<td style="width: 250px;">5</td>
+					<td style="width: 250px;">6000</td>
+					<td style="width: 250px;">30000</td>
+				</tr>
+				<tr>
+					<td style="width: 250px;">DHT11 temperature sensor</td>
+					<td style="width: 250px;"><img src="images/iot/dht.jpg"></td>
+					<td style="width: 250px;">5</td>
+					<td style="width: 250px;">200</td>
+					<td style="width: 250px;">1000</td>
+				</tr>
+				<tr>
+					<td style="width: 250px;">Infrared Proximity Sensor</td>
+					<td style="width: 250px;"><img src="images/iot/ir.jpg"></td>
+					<td style="width: 250px;">5</td>
+					<td style="width: 250px;">200</td>
+					<td style="width: 250px;">1000</td>
+				</tr>
+				<tr>
+					<td style="width: 250px;">Ultrasonic Distance sensor Compatible with Arduino</td>
+					<td style="width: 250px;"><img src="images/iot/ultra.jpg"></td>
+					<td style="width: 250px;">5</td>
+					<td style="width: 250px;">200</td>
+					<td style="width: 250px;">1000</td>
+				</tr>
+				<tr>
+					<td style="width: 250px;">Soil Hygrometer</td>
+					<td style="width: 250px;"><img src="images/iot/shmeter.jpg"></td>
+					<td style="width: 250px;">5</td>
+					<td style="width: 250px;">200</td>
+					<td style="width: 250px;">1000</td>
+				</tr>
+				<tr>
+					<td style="width: 250px;">Raspberry Pi Camera</td>
+					<td style="width: 250px;"><img src="images/iot/rbpicam.jpg"></td>
+					<td style="width: 250px;">2</td>
+					<td style="width: 250px;">2500</td>
+					<td style="width: 250px;">5000</td>
+				</tr>
+				</table>
+				<p></p>
+				<table class="tab">
+				<thead><b style="font-size:25px;">Intel Board</b></thead>
+				<tr>
+					<th style="width: 250px;">Product</th>
+					<th style="width: 250px;">Quantity</th>
+					<th style="width: 250px;">Rate</th>
+					<th style="width: 250px;">Price</th>
+				</tr>
+				<tr>
+					<td style="width: 250px;">110060064 Grove Indoor Environment Kit for Intel Edison<br>
+						Contains:<br>
+						<ul>
+							<li>Base Shield v2</li>
+							<li>LCD RGB Backlight</li>
+							<li>Temperature and Humidity sensor</li>
+							<li>Relay</li>
+							<li>Moisture sensor</li>
+							<li>Servo</li>
+							<li>Light sensor</li>
+							<li>Buzzer</li>
+							<li>UV sensor</li>
+							<li>9V to Barrel Jack adapter</li>
+							<li>PIR Motion sensor</li>
+							<li>26AWG Cables</li>
+							<li>Encoder</li>
+							<li>USB Cable</li>
+							<li>Button</li>
+							<li>User Guide</li>
+						</ul>
+					</td>
+					<td style="width: 250px;">1</td>
+					<td style="width: 250px;">10000</td>
+					<td style="width: 250px;">50000</td>
+				</tr>
+				<tr>
+					<td style="width: 250px;">Intel Galileo Gen2 Development Board</td>
+					<td style="width: 250px;">2</td>
+					<td style="width: 250px;">8000</td>
+					<td style="width: 250px;">16000</td>
+				</tr>
+				</table>
+				<p></p>
+				<table class="tab">
+					<tr><thead><b style="font-size:25px;">Xadow Wearable Kit for Intel Edison</b></thead></tr>
+					<tr>
+						<th style="width: 250px;">Product</th>
+						<th style="width: 250px;">Quantity</th>
+						<th style="width: 250px;">Rate</th>
+						<th style="width: 250px;">Price</th>
+					</tr>
+					<tr>
+						<td style="width: 250px;">Xadow Wearable Kit for Intel Edison
+							is a perfect kit to make wearable devices with Intel Edison.
+							It includes an expansion board together with eight tiny and powerful Xadow modules,
+							covering sensors, actuators, displays and communication parts.
+							The connectivity through FFC makes it quite flexible for wearable projects.
+							Based on the kit, you could build your own pedometer, thermometer and NFC enabled devices.<br>
+							Contains<br>
+							<ul>
+								<li>Expansion Board</li>
+								<li>3 Axis Accelerometer</li>
+								<li>Programmer</li>
+								<li>Barometer BMP 180</li>
+								<li>SD Card</li>
+								<li>Battery     </li>
+								<li>Q Touch Sensor</li>
+								<li>Digital RGB LED Flexi-Strips</li>
+								<li>NFC</li>
+								<li>Power Cables (Red)</li>
+								<li>Breakout</li>
+								<li>Power Cables (White)</li>
+								<li>Buzzer</li>
+								<li>Power Cables (Yellow)</li>
+								<li>Vibration Motor</li>
+								<li>FFC Package</li>
+								<li>OLED</li>
+						</ul>
+						</td>
+						<td style="width: 250px;">1</td>
+						<td style="width: 250px;">15000</td>
+						<td style="width: 250px;">15000</td>
+					</tr>
+				</table>
+				<p></p>
+				<b style="font-size:20">Total Price: Rs.3,00,000 </b>

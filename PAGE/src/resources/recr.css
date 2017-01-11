@@ -1,0 +1,77 @@
+html{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+div.banner{
+  background-color: #673481;
+  padding: 15px;
+  align-items:flex-end;
+  color: #fff;
+  font-size: 35px;
+}
+
+div.titles{
+  background-color: #673481;
+  padding: 25px;
+  align-items: center;
+  color: #fff;
+  float: left;
+  width: 19.8vw;
+}
+
+div.titles button{
+  border: none;
+  background-color: #673481;
+  color: #fff;
+}
+
+div.content{
+  float: left;
+  background-color: #e2e2df;
+  width: 48vw;
+  height:130vh;
+  padding: 25px;
+  overflow-y: auto;
+
+}
+
+table.tab{
+  border: 1;
+}
+
+table.tab th{
+    background-color: #673481;
+    color: white;
+
+}
+
+table.tab tr:nth-child(even){
+  background-color: #f4f4f4;
+}
+
+table.tab td,th{
+  padding: 20px;
+}
+
+#tables th,td{
+  padding: 20px;
+}
+
+div.misc{
+  float: left;
+  color: white;
+  background-color: #e2e2df;
+  padding: 25px;
+  width: 24vw;
+  clear:right;
+  height:130vh;
+}
+
+div.itemactive{
+  align-content: center;
+}
+/*div.foot{
+  float: none;
+  background-color: #673481;
+  color: white;
+}

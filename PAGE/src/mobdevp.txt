@@ -1,0 +1,69 @@
+			<h1 align="justify">Mobile Applications Development @ RI</h1>
+			<p>
+				Mobile Development Lab provides unique environment for experimental research in the field
+				of developing app and app based products. The lab helps in identifying the potential of student
+				who is competent  in programming android, windows and iPhones.
+			</p>
+			<h2>Mission</h2>
+			<p>
+				<ul>
+					<li>To provide resources for students to become more competitive in the workplace
+						by gaining exposure to the power of apps as well as experience
+						in the various aspects of the process of defining, designing and testing apps
+						in a cross-disciplinary and innovative learning environment.</li>
+			  	<li>To establish a center of software development for mobile devices and carter to the needs of young generations.</li>
+					<li>To undertake challenging tasks and deliver low-cost solutions future generation.</li>
+				</ul>
+			</p>
+			<h2>Road Map</h2>
+				<h3>Year 1-2</h3>
+					<ul>
+						<li>To create a clubhouse environment for student developers to share knowledge and ideas and pursue collaborative projects.</li>
+						<li>Periodic public apps-related events, including developer workshops, panel sessions, and student showcases.</li>
+						<li>To Support opportunities for student research and development projects.</li>
+					</ul>
+				<h3>Year 2-3</h3>
+					<ul>
+						<li> To Enable students and faculty to publish their research activities done in the lab.</li>
+						<li>To undertake consultation work with startups to gain funds.</li>
+						<li>To undertake training activities from IT majors.</li>
+					</ul>
+				<h3>Year 3-5</h3>
+					<ul>
+						<li>To propose reliable solutions to real world problems and market them.</li>
+						<li>To design and develop native apps in iPhone, iPad, Android and mobile platforms.
+							We help businesses create mobile capabilities for their internal business as well as their customer base.</li>
+					</ul>
+
+			</p>
+			<img src="images/mobildev.png">
+			<br><br><br>
+			</div>
+			<p></p>
+			<div id="tables">
+				<table class="tab">
+					<thead><b style="font-size:25px;">Requirements</b></thead>
+					<tr>
+						<th style="width: 250px;">Product</th>
+						<th style="width: 250px;">Image</th>
+						<th style="width: 250px;">Quantity</th>
+						<th style="width: 250px;">Rate</th>
+						<th style="width: 250px;">Price</th>
+					</tr>
+					<tr>
+						<td style="width: 250px;">FriendlyARM S5PV210 Cortex A8 Development Board, with TINY210 SDK and 7inch Resistance Touchscreen, 512MB RAM, 256MB SLC Flash storage and Android 4.0</td>
+						<td style="width: 250px;"><img src="images/appdev/farm.jpg"></td>
+						<td style="width: 250px;">5</td>
+						<td style="width: 250px;">20000</td>
+						<td style="width: 250px;">100000</td>
+					</tr>
+					<tr>
+						<td style="width: 250px;">Radxa Rock Pro RK3188 with Quad-core 1.6 GHz processor, 2GB RAM, 8GB Flash storage, Opensource Single-board Computer, Supported Linux, Android, FreeBSD hdmi, RCT, DIY development kit, NAS, MINI PC with higher specifications than a Raspberry Pi</td>
+						<td style="width: 250px;"><img src="images/appdev/rad.jpg"></td>
+						<td style="width: 250px;">10</td>
+						<td style="width: 250px;">12000</td>
+						<td style="width: 250px;">120000</td>
+					</tr>
+				</table>
+				<p></p>
+				<b style="font-size:20">Total Price: Rs.2,20,000 </b>

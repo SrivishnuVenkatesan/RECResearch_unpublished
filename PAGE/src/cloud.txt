@@ -1,0 +1,123 @@
+			<h1 align="justify">Cloud Laboratory @ RI</h1>
+			<p>
+				Rajalakshmi Institution aims to provide flexible, scientific infrastructure
+				for research on the future of cloud computing to build our own clouds,
+				experimenting with new architectures that will form the basis for the next generation of computing platforms.
+				It is expected that Cloud Computing will help in pooling of computing resources of Government Departments
+				into large clouds thereby increasing utilization of computing resources effectively.
+				It is built for running experiments that will lead to, or to a deeper understanding of the fundamentals of cloud computing.
+			</p>
+			<h2>Mission</h2>
+			<p>
+				<ul>
+					<li>The mission of cloud lab is to identify new capabilities in future clouds for high performance computing.</li>
+			  	<li> RCLs to conduct fundamental and applied research on all aspects of systems that integrate computing and information processing.</li>
+					<li> To deliver virtual machines for remote access and reduce the cost of implementation of remote lab.</li>
+					<li>To establish center of excellence through providing computing resources for small and medium enterprises and establish a business value.</li>
+				</ul>
+			</p>
+			<h2>Road Map</h2>
+				<h3>Year 1-2</h3>
+					<ul>
+						<li>Strengthen our faculty and students in utilizing the resource of cloud lab.</li>
+						<li>Coordinates talks and trainings focused on cloud computing services such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform.</li>
+						<li>Enable scholars and students to compute their research works. </li>
+					</ul>
+				<h3>Year 2-3</h3>
+					<ul>
+						<li>To Enable students and faculty to publish their research activities done in the lab.</li>
+						<li>To expand the cluster from a 4 node to 20 node and apply for funding’s to undertake research projects.</li>
+						<li>To assist in deploying private cloud setup in other institutions.</li>
+					</ul>
+				<h3>Year 3-5</h3>
+					<ul>
+						<li>To develop scientific solutions for government projects and gain resources and funding.</li>
+						<li>To make the cloud lab setup to perform better and increase infrastructure on par with entry level supercomputing facility.</li>
+					</ul>
+
+			</p>
+			<img src="images/cloud.jpg">
+			<br><br><br>
+			</div>
+			<div id="tables">
+				<h3><b style="font-size:25px;">For Private Cloud Setup</b></h3>
+				<table class="tab">
+					<thead><b style="font-size:25px;">Physical Infrastructure</b></thead>
+				<tr>
+					<th style="width: 250px;">System</th>
+					<th style="width: 250px;">Quantity</th>
+					<th style="width: 250px;">Rate</th>
+					<th style="width: 250px;">Price</th>
+				</tr>
+				<tr>
+					<td style="width: 250px;">IBM/DELL Blade Servers with Intel XEON QuadCore processor and 6GB of RAM</td>
+					<td style="width: 250px;">4</td>
+					<td style="width: 250px;">90000</td>
+					<td style="width: 250px;">360000</td>
+				</tr>
+				<tr>
+					<td style="width: 250px;">DELL i7 Processor with 8GB ram</td>
+					<td style="width: 250px;">4</td>
+					<td style="width: 250px;">40000</td>
+					<td style="width: 250px;">160000</td>
+				</tr>
+				<tr>
+					<td style="width: 250px;">Cisco SF-300-24port 10/100 PoE Managed Switch with Gigabit Uplink</td>
+					<td style="width: 250px;">1</td>
+					<td style="width: 250px;">20000</td>
+					<td style="width: 250px;">20000</td>
+				</tr>
+				<tr>
+					<td style="width: 250px;">VMWare Workstation</td>
+					<td style="width: 250px;">-</td>
+					<td style="width: 250px;">17000</td>
+					<td style="width: 250px;">17000</td>
+				</tr>
+				</table>
+				<p></p>
+				<table class="tab">
+				<thead><b style="font-size:25px;">Software Requirements</b></thead>
+				<tr>
+					<th style="width: 250px;">System</th>
+					<th style="width: 250px;">Quantity</th>
+					<th style="width: 250px;">Rate</th>
+					<th style="width: 250px;">Price</th>
+				</tr>
+				<tr>
+					<td style="width: 250px;">Operating System - Ubuntu</td>
+					<td style="width: 250px;">-</td>
+					<td style="width: 250px;">Open Source</td>
+					<td style="width: 250px;">-</td>
+				</tr>
+				<tr>
+					<td style="width: 250px;">Cloud Middleware
+						<ul>
+							<li>VMWare</li>
+							<li>ESXi</li>
+							<li>Eucalyptus</li>
+							<li>Hypervisor</li>
+							<li>Openstack</li>
+							<li>Cloudsim</li>
+							<li>Open Nebula</li>
+							<li>Citrix Xen</li>
+						</ul>
+					</td>
+					<td style="width: 250px;">-</td>
+					<td style="width: 250px;">Open Source</td>
+					<td style="width: 250px;">-</td>
+				</tr>
+				<tr>
+					<td style="width: 250px;">Big Data Tools
+						<ul>
+							<li>Hadoop</li>
+							<li>Hive</li>
+							<li>HBase</li>
+						</ul>
+					</td>
+					<td style="width: 250px;">-</td>
+					<td style="width: 250px;">Open Source</td>
+					<td style="width: 250px;">-</td>
+				</tr>
+				</table>
+				<p></p>
+				<b style="font-size:20">Total Price: Rs.4,85,000 </b>

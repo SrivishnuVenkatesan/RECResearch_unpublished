@@ -1,0 +1,158 @@
+			<h1 align="justify">Artificial Intelligence @ RI</h1>
+			<p>
+				The Artificial Intelligence Laboratory (AI Lab) is designed
+				to facilitate an intellectual home for researchers and interested students
+				from the Faculty of Organization and Informatics whose main research focuses on
+				various fields of AI.
+			</p>
+			<h2>Mission</h2>
+			<p>
+				<ul>
+					<li>To conduct cutting-edge, long-term standalone and collaborative research
+						as well as education in artificial intelligence, multi-agent systems,
+						robotics, computational intelligence, web and data mining, semantic web and related topics
+						with a sharp focus on transferring knowledge into practice.
+			  	<li> To develop machine learning algorithms using prediction methods.
+				</ul>
+			</p>
+			<h2>Road Map</h2>
+				<h3>Year 1-2</h3>
+					<ul>
+						<li>With mathematical research, instigate important strategies in AI.</li>
+						<li>Gathering training data to solve complex problems.</li>
+						<li>Design a model, smart enough to meet programmer's goal.</li>
+					</ul>
+				<h3>Year 2-3</h3>
+					<ul>
+						<li>To enable students and faculty to publish their research activities done in the lab.</li>
+						<li>To undertake consultation work with startups to gain funds.</li>
+						<li>To build valid decision criteria for uncertain problems.</li>
+					</ul>
+				<h3>Year 3-5</h3>
+					<ul>
+						<li>To design software agents for world-models.</li>
+						<li>To develop techniques for the synthesis, integration and combination of decision procedures for a variety of problems.</li>
+					</ul>
+
+			</p>
+			<img src="images/ai.png">
+			<br><br><br>
+			</div>
+			<div id="tables">
+				<table>
+				<thead><b style="font-size:25px;">All Purpose Software</b></thead>
+				<tr><th>MATLAB</th></tr>
+				<tr><td> <img src="images/ai/matlab.jpg" style="height:70px; width:70px"> </td></tr>
+				<tr><td>MATLAB is a multi-paradigm numerical computing environment and fourth-generation programming language.</td></tr>
+				<tr><td><b>Cost:</b>Rs. 27000 for one academic use license.</td></tr>
+			</table>
+			<br>
+			<table>
+				<thead><b style="font-size:25px;">Data Mining and Machine Learning</b></thead>
+				<tr><th>Alchemy</th></tr>
+				<tr><td>Alchemy is a software package providing a series of algorithms for statistical relational learning and probabilistic logic inference, based on the Markov logic representation.</td></tr>
+				<tr><td> Alchemy allows you to easily develop a wide range of AI applications, including:
+							<ul>
+								<li>Collective Classification</li>
+								<li>Link Prediction</li>
+								<li>Entity Resolution</li>
+								<li>Social networking modelling</li>
+								<li>Information Extraction</li>
+							</ul>
+						</td>
+				</tr>
+				<tr><td><a href="https://code.google.com/archive/p/alchemy-2/">Alchemy</a></td></tr>
+				</td></tr>
+				<br>
+				<tr><th>Weka</th></tr>
+				<tr><td> <img src="images/ai/weka.jpg" style="height:70px; width:70px"> </td></tr>
+				<tr><td>Weka is a Machine Learning software to solve data-mining problems.</td></tr>
+				<tr><td>
+							<ul>
+								<li>Machine Learning</li>
+								<li>Data Mining</li>
+								<li>Preprocessing</li>
+								<li>Classification</li>
+								<li>Regression</li>
+								<li>Clustering</li>
+								<li>Association Rules</li>
+								<li>Attribute Selection</li>
+								<li>Experiments</li>
+								<li>Workflow</li>
+								<li>Visualization</li>
+							</ul>
+						</td>
+				</tr>
+				<tr><td><a href="http://www.cs.waikato.ac.nz/~ml/weka/index.html ">Weka</a></td></tr>
+				</td></tr>
+				<br>
+				<tr><th>Orange</th></tr>
+				<tr><td> <img src="images/ai/orange.jpg" style="height:70px; width:70px"> </td></tr>
+				<tr><td>Orange is an Open source data visualization and data analysis tool for novice and expert.</td></tr>
+				<tr><td>
+							<ul>
+								<li>Canvas: graphical front-end for data analysis
+								<li>Widgets:
+										<ul><li>Data: widgets for data input, data filtering, sampling, imputation, feature manipulation and feature selection </li>
+										<li>Visualize: widgets for common visualization (box plot, histograms, scatter plot) and multivariate visualization (mosaic display, sieve diagram). </li>
+										<li>Classify: a set of supervised machine learning algorithms for classification </li>
+										<li>Regression: a set of supervised machine learning algorithms for regression </li>
+										<li>Evaluate: cross-validation, sampling-based procedures, reliability estimation and scoring of prediction methods </li>
+										<li>Unsupervised: unsupervised learning algorithms for clustering (k-means, hierarchical clustering) and data projection techniques (multidimensional scaling, principal component analysis, correspondence analysis).</li>
+										<li>Add-ons:
+											<ul><li>Bioinformatics: widgets for gene set analysis, enrichment, and access to pathway libraries </li>
+											<li>Data fusion: widgets for collective matrix factorization and exploration of latent factors </li>
+										</ul></li>
+									</ul></li>
+							</ul>
+						</td>
+				</tr>
+				<tr><td><a href="http://orange.biolab.si/">Orange</a></td></tr>
+				<br>
+				<tr><th>Rapidminer</th></tr>
+				<tr><td> <img src="images/ai/rapidminer.jpg" style="height:70px; width:70px"> </td></tr>
+				<tr><td>RapidMiner is a software platform developed by the company
+					of the same name that provides an integrated environment for machine learning,
+					data mining,text mining, predictive analytics and business analytics.</td></tr>
+				<tr><td><a href="https://rapidminer.com/">rapidminer</a></td></tr>
+				</td></tr>
+			</table>
+			<br>
+			<table>
+				<thead><b style="font-size:25px;">Natural Language Processing</b></thead>
+				<tr><th>openNLP</th></tr>
+				<tr><td> <img src="images/ai/opennlp.jpg" style="height:70px; width:200px"> </td></tr>
+				<tr><td><p>The Apache OpenNLP library is a machine learning based toolkit
+					for the processing of natural language text.
+				It supports the most common NLP tasks, such as tokenization, sentence segmentation,
+				partof-speech tagging, named entity extraction, chunking, parsing, and co reference resolution.
+				These tasks are usually required to build more advanced text processing services.
+				OpenNLP also includes maximum entropy and perceptron based machine learning.</p>
+				</td></tr>
+				<tr><td><a href="https://opennlp.apache.org/">openNLP</a></td></tr>
+				<br>
+				<tr><th>GATE</th></tr>
+				<tr><td> <img src="images/ai/gate.jpg" style="height:100px;"> </td></tr>
+				<tr><td><p>GATE is an open source software capable of solving almost any text processing problem.
+				It is in active use for all sorts of language processing tasks and applications, including:
+				<ul>
+					<li>Voice of the customer</li>
+					<li>Cancer research</li>
+					<li>Drug research</li>
+					<li>Decision support</li>
+					<li>Recruitment</li>
+					<li>Web mining</li>
+					<li>Information extraction</li>
+					<li>Semantic annotation</li>
+				</ul>
+				</p></td></tr>
+				<tr><td><a href="https://gate.ac.uk/overview.html">GATE</a></td></tr>
+				<br>
+				<tr><th>Mahout</th></tr>
+				<tr><td> <img src="images/ai/mahout.jpg" style="height:100px;"> </td></tr>
+				<tr><td><p>The Apache Mahout is a project of the Apache Software Foundation
+					to produce free implementations of distributed or otherwise scalable machine learning algorithms
+					focused primarily in the areas of collaborative filtering, clustering and classification.</p>
+				</td></tr>
+				<tr><td><a href="https://opennlp.apache.org/">mahout</a></td></tr>
+			</table>

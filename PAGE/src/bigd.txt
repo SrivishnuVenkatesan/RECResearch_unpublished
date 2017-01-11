@@ -1,0 +1,102 @@
+
+			<h1 align="justify">Big Data Analysis @ RI</h1>
+			<p>
+				Rajalakshmi Institution leverages its research expertise to develop new methods
+				that transform data into value. Analyzing large and complex data sets,
+				also known as “big data,” can provide solutions to many challenges.
+				Applying data analytics to social networks may help industries understand trends
+				in consumer behaviors. Similar computational capabilities may also provide insight
+				on tackling some of the most critical issues facing society today.
+				Analytics in big data may lead to more confident decision making,
+				and better decisions can mean greater operational efficiency, cost reduction and reduced risk.
+			</p>
+			<h2>Mission</h2>
+			<p>
+				<ul>
+					<li>The Big Data Lab’s research mission is to identify, engineer and evaluate innovative technologies
+						that address current and future data-intensive challenges.</li>
+			  	<li>To facilitates and collaborate with other scientific disciplines and industries,
+						to develop data-intensive and data-enabled applications and inform a long-term roadmap to compete.</li>
+					<li> To deliver low-cost, high-performance, agile BI and data discovery.</li>
+					<li>To prove business value to growing industries and startups.</li>
+						for skill building to next generation engineers.</li>
+				</ul>
+			</p>
+			<h2>Road Map</h2>
+				<h3>Year 1-2</h3>
+					<ul>
+						<li>Strengthen our faculty and students in Big Data Tools by invited lectures from industry experts.</li>
+						<li>Workshops to educate Faculty and Students from other institutions.</li>
+						<li>Enable scholars and students to execute their research works.</li>
+					</ul>
+				<h3>Year 2-3</h3>
+					<ul>
+						<li> To Enable students and faculty to publish their research activities done in the lab.</li>
+						<li>To undertake consultation work with startups and deploy their data sets to gain funds.</li>
+						<li>To undertake training activities from IT majors.</li>
+					</ul>
+				<h3>Year 3-5</h3>
+					<ul>
+						<li> Inviting vendors specific problem from Industry and develop algorithms and analytical engine for solving the problems.</li>
+						<li>To develop theoretical, innovative scientific and technological solutions to cater to the needs of the industry, the society and the environment.</li>
+						<li>To analysis, the forecasting, and the simulation of complex socio-economical phenomena.</li>
+					</ul>
+
+			</p>
+			<img src="images/big-data.png">
+			<br><br><br>
+			</div>
+			<div id="tables">
+				<h3><b style="font-size:25px;">Hardware Requirements:</b></h3>
+
+				<table class="tab">
+				<thead><b style="font-size:25px;">Physical Infrastructure</b></thead>
+				<tr>
+					<th>System</th>
+					<th>Quantity</th>
+					<th>Price</th>
+					<th>Total Price</th>
+				</tr>
+				<tr>
+					<td style="width: 250px;">IBM/DELL blade servers - with Intel XEON Quad Core and 16GB RAM</td>
+					<td style="width: 250px;">2</td>
+					<td style="width: 250px;">90000</td>
+					<td style="width: 250px;">180000</td>
+				</tr>
+				<tr>
+					<td style="width: 250px;">DELL with Intel i7 Processor with 8GB RAM</td>
+					<td style="width: 250px;">10</td>
+					<td style="width: 250px;">40000</td>
+					<td style="width: 250px;">400000</td>
+				</tr>
+				<tr>
+					<td style="width: 250px;">Cisco SF300-24Port 10/100 PoE Managed Switch with Gigabit Uplinks</td>
+					<td style="width: 250px;">1</td>
+					<td style="width: 250px;">20000</td>
+					<td style="width: 250px;">20000</td>
+				</tr>
+				</table>
+				<p></p>
+				<table class="tab">
+				<thead><b style="font-size:25px;">Software Requirements</b></thead>
+				<tr>
+					<th>System</th>
+					<th>Quantity</th>
+					<th>Price</th>
+					<th>Total Price</th>
+				</tr>
+				<tr>
+					<td style="width: 250px;">Operating System - Ubuntu(Linux)</td>
+					<td style="width: 250px;">-</td>
+					<td style="width: 250px;">Open Source</td>
+					<td style="width: 250px;">-</td>
+				</tr>
+				<tr>
+					<td style="width: 250px;">Big data tools - Hadoop, Hive, Hbase,etc.</td>
+					<td style="width: 250px;">-</td>
+					<td style="width: 250px;">Open Source</td>
+					<td style="width: 250px;">-</td>
+				</tr>
+				</table>
+				<p></p>
+				<b style="font-size:20">Total Price: Rs.5,10,000 </b>
